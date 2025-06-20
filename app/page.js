@@ -259,7 +259,7 @@ const handleSubmit = (e) => {
                     </div>
                     
                     <div className="bg-blue-900/30 backdrop-blur-sm rounded-lg p-4 border border-white/20">
-                      <h3 className="text-white font-semibold mb-2">Today's Featured Service:</h3>
+                      <h3 className="text-white font-semibold mb-2">Today&apos;s Featured Service:</h3>
                       <p className="text-blue-200 text-xl font-medium animate-pulse">
                         {services[currentSlide]}
                       </p>
@@ -443,7 +443,7 @@ const handleSubmit = (e) => {
                       </svg>
                     ))}
                   </div>
-                  <p className="text-white/80 italic mb-6">"{testimonial.comment}"</p>
+                  <p className="text-white/80 italic mb-6">&quot;{testimonial.comment}&quot;</p>
                   <div className="flex items-center">
                     <div className="bg-blue-500/20 p-2 rounded-full mr-4">
                       <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-blue-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
