@@ -128,7 +128,7 @@ const handleSubmit = (e) => {
       <div className="fixed inset-0 -z-10 overflow-hidden">
         <div className="absolute inset-0 bg-black/30 backdrop-blur-sm"></div>
         <Image 
-          src="/img/1 (2).jpeg" 
+          src="/img/2 (2).jpeg" 
           alt="Glass shop background"
           layout="fill"
           objectFit="cover"
@@ -212,7 +212,7 @@ const handleSubmit = (e) => {
           {/* Full-page shop facade image */}
           <div className="absolute inset-0">
             <Image 
-              src="/img/1 (7).jpeg"
+              src="/img/2 (8).jpeg"
               alt="Digital Glass India Shop Front"
               layout="fill"
               objectFit="cover"
@@ -299,7 +299,7 @@ const handleSubmit = (e) => {
             <div className="flex flex-col md:flex-row items-center gap-12">
               <div className="md:w-1/2">
                 <Image 
-                  src="/img/1 (7).jpeg"
+                  src="/img/2 (8).jpeg"
                   alt="Our Glass Workshop"
                   width={600}
                   height={400}
