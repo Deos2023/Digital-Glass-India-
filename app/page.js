@@ -128,7 +128,7 @@ const handleSubmit = (e) => {
       <div className="fixed inset-0 -z-10 overflow-hidden">
         <div className="absolute inset-0 bg-black/30 backdrop-blur-sm"></div>
         <Image 
-          src="/img/2 (2).jpeg" 
+          src="/img/2 (3).jpeg" 
           alt="Glass shop background"
           layout="fill"
           objectFit="cover"
